@@ -11,6 +11,6 @@ This project is an implementation of Semantic Segmentation and Object Detection 
 
 4. For installing additional dependencies, change the directory into this repo, and install using the requirements.txt file. 
 
-`$ cd Semantic Segmentation and Object Detection/`
+`$ cd Semantic Segmentation and Object Detection/
 
 $ pip install -r requirements.txt`
