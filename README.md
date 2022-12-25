@@ -1,6 +1,6 @@
 # Semantic-Segmentation-and-Object-Detection-on-Point-Cloud-Data
 
-This project is an implementation of Semantic Segmentation and Object Detection on Point Cloud Data, using the MonoScene and Complex YOLOv4 respectively. The datasets considered are SemanticKITTI and Kitti 3D Object Detection Datasets respectively. 
+This project is an implementation of Semantic Segmentation and Object Detection on Point Cloud Data, using the MonoScene and Complex YOLOv4 respectively. The datasets considered are SemanticKITTI and Kitti 3D Object Detection Datasets respectively. The targeted output is to perform Object Detection and Semantic Segmentation for the same input data.
 
 # Requirements
 1. Install Anaconda 
