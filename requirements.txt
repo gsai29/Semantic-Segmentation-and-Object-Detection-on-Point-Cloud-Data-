@@ -1,0 +1,16 @@
+torch
+torchvision
+easydict
+opencv-python
+numpy
+torchsummary
+tensorboard
+scikit-learn
+scikit-image
+PyYAML
+tqdm
+pytorch-lightning
+hydra-core
+numba
+imageio
+protobuf
