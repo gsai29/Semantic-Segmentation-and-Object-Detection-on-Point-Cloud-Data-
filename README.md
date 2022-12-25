@@ -73,6 +73,7 @@ To train Complex YOLOv4, run the following commands.
 
 # 3. Evaluating Monoscene 
 `cd Semantic Segmentation and Object Detection/`
+
 `python monoscene/scripts/eval_monoscene.py +dataset=kitti  +    kitti_root=/path/to/semantic_kitti  +kitti_preprocess_root=/path/to/kitti/preprocess/folder +n_gpus=1 +batch_size=1`
 
 # 4. Testing Complex YOLOv4
